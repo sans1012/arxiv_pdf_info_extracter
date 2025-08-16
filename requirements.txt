@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+langchain
+pydantic
+pymupdf
+streamlit
+ollama
+httpx
