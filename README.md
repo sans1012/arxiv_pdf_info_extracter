@@ -42,5 +42,3 @@ Built with **FastAPI** for serving requests asynchronously.
 6. **To run frontend**
     ```bash
    streamlit run frontend.py 
-   
-
